@@ -69,3 +69,6 @@ export EDITOR=code
 
 # Set ipdb as the default Python debugger
 export PYTHONBREAKPOINT=ipdb.set_trace
+
+# Geoffroy add this path to the PYTHONPATH
+export PYTHONPATH="/home/geoffroy/code/GeoffroyGit/data-challenges/04-Decision-Science:$PYTHONPATH"
